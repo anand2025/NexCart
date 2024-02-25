@@ -3,7 +3,7 @@
 NexCart is an e-commerce platform
 
 ## Features
-**User Authentication: Includes sign-up, sign-in, and password reset functionalities.</br>
+* User Authentication: Includes sign-up, sign-in, and password reset functionalities.</br>
 Product Management: Admin panel for adding, updating, and deleting products.</br>
 Product Browsing: Users can browse products, search, and filter by categories.</br>
 Shopping Cart: Add/remove products to/from cart, update quantities, and proceed to checkout.</br>
