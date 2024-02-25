@@ -1,6 +1,6 @@
 # NexCart
 ## Introduction
-This project serves as a complete template for creating an e-commerce platform from scratch using modern web development technologies. It includes essential functionalities such as user authentication, product management, shopping cart operations, and order processing. Whether you're a beginner looking to learn MERN stack development or an experienced developer seeking a robust foundation for your e-commerce venture, this project is designed to meet your needs.
+NexCart is an e-commerce platform
 
 ## Features
 User Authentication: Includes sign-up, sign-in, and password reset functionalities.</br>
